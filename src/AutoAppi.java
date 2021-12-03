@@ -6,7 +6,7 @@ public class AutoAppi {
 
 	}
 
-}
+} // end of AutoAppi
 
 class Auto
 {
