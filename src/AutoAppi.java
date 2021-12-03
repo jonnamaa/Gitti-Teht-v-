@@ -3,7 +3,9 @@ public class AutoAppi {
 
 	public static void main(String[] args) {
 	
-
+		Auto auto1 = new Auto("Mersu", "SLK", 70);
+		auto1.kiihdyta();
+		auto1.naytaTiedot();
 	}
 
 } // end of AutoAppi
