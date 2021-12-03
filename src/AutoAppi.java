@@ -8,7 +8,7 @@ public class AutoAppi {
 
 } // end of AutoAppi
 
-class Auto
+class Auto 
 {
 	public String merkki;
 	public String malli;
@@ -58,7 +58,7 @@ class Auto
 	{
 		bensanMaara = bensanMaara + maara;
 	}
-}
+} // end of Auto class
 
 
 
